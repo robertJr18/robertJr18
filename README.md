@@ -12,8 +12,23 @@
 -->
 
 - 🎵 i love music.
-
 - 🔭 every day is a new opportunity.
-<!--
-**robertJr18/robertJr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="robertJr18" style="padding-right:20px;" />
+</p>
+
+---
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=java,cpp,py,html,css,vscode,git&perline=10"  />
+</p>
+<br />
+
 
