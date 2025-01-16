@@ -1,16 +1,17 @@
-## Hi there, i´m Robert👋
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʀᴏʙᴇʀᴛ! 
+*Computer science student*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left"> Passionate about new technologies and their transformative potential. As an engineering student, I’m always eager to explore and learn about the latest tech advancements.
+
+</p>
 <!--
-**robertJr18/robertJr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨ owner of "what will happen". 
 -->
+- 🎵 i love music.
+- 🔭 every day is a new opportunity.
+<!--
+**robertJr18/robertJr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
