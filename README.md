@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/c5fb57b1-d350-4229-b688-24e238d57322)
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʀᴏʙᴇʀᴛ! 
 *Computer science student*
 <br /> 
@@ -13,6 +13,7 @@
 
 - 🎵 i love music.
 - 🔭 every day is a new opportunity.
+- ✉️ email me at: roberteloy08@gmail.com
 
 <!--End Intro-->
 
