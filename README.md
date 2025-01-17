@@ -1,6 +1,4 @@
-</h1>
-<img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJramRzNGtncnd6aHl5NzllZmllMjZybGxiaTdzMnliNzJhZnNjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" />
-</h1>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʀᴏʙᴇʀᴛ! 
 *Computer science student*
 <br /> 
